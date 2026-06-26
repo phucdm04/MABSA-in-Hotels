@@ -1,0 +1,7 @@
+numpy
+pillow
+sentencepiece
+tensorboard
+torch
+tqdm
+transformers
